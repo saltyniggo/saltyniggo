@@ -9,7 +9,7 @@
 ### About Me
 
 - **Age:** 20
-- **Interests:** Nature, Hiking, Backpacking, Wild Camping
+- **Interests:** Nature, 3D Printing, Backpacking, Wild Camping
 - **Programming Languages:** Vue.js, C#, Python, Java
 - **Other Passions:** Gardening, Bicycling (Mountainbike, Gravel)
 
